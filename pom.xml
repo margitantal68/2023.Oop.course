@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ro.sapientia.oop</groupId>
+    <artifactId>2023.Oop.course</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>course3</module>
+        <module>course4</module>
+        <module>course5</module>
+        <module>course6</module>
+        <module>course7</module>
+        <module>course8</module>
+        <module>course9</module>
+        <module>course10</module>
+        <module>course11</module>
+        <module>course12</module>
+        <module>course13</module>
+        <module>course14</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+</project>
